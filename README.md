@@ -1,8 +1,8 @@
 augeas_class
 ============
 
-This repository should be cloned to /root via 
+This repository should be cloned to /root on your VM via 
 
 ```
-https://github.com/taosmountain/augeas_class
+git pull https://github.com/taosmountain/augeas_class /root/augeas_class
 ```
